@@ -23,8 +23,10 @@
 
 To install necessary dependencies / get started, run the following command:
 
+First, run "npm install" to download dependencies
 
-To begin using the program, use the following command line: node index.js
+
+Then, to begin using the program, use the following command line: "node index.js"
 
 
 ## Usage
