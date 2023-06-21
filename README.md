@@ -33,7 +33,7 @@ Then, to begin using the program, use the following command line: "node index.js
 
 ## Usage
 
-To begin, use the node index.js command line. The application will prompt you to enter your text, enter up to 3 characters. Next, you will be prompted to enter a text color, you can enter your color keyword or your hexadecimal number. You will also do this for your shapes color. For your shape, you will be prompted to choose from a circle, triangle or square. Once you have selected all required questions, an SVG file names "logo.svg" will be generated for you, which will display your logo.
+To begin, use the node index.js command line. The application will prompt you to enter your text, enter up to 3 characters. Next, you will be prompted to enter a text color, you can enter your color keyword or your hexadecimal number. You will also do this for your shapes color. For your shape, you will be prompted to choose from a circle, triangle, square or star. Once you have selected all required questions, an SVG file names "logo.svg" will be generated for you, which will display your logo.
 
 My favorite color resource is https://coolors.co/ - feel free to grab your hexadecimal number from there. 
 
