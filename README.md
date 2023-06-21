@@ -5,6 +5,8 @@
   
   This Node.js command line application takes in user input to generate and save a logo as an SVG file. The application will prompt users to input their desired color, shape and text, and will then generate a logo.
 
+  My GitHub repository can be found at: https://github.com/HannahMidd/SVG-Logo-Maker
+
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -45,10 +47,7 @@ Please feel free to leave any constructive criticism on how to better the applic
 
 ## Tests
 
-To run tests, run the following command:
-
-
-N/A
+To run tests, run the following command: "node test"
 
 
 ## Questions
