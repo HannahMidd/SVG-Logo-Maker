@@ -1,14 +1,14 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tool to generate SVG logo",
   "main": "index.js",
   "directories": {
     "example": "examples",
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/HannahMidd/SVG-Logo-Maker#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5"
   }
 }
